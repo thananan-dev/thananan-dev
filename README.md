@@ -9,9 +9,9 @@
     <dd> - ⚗ Like photographer
     <dd> - 📱 Like custom computer
    <dt>Stats
-     <dd>![GITHUB_STAT_OVERALL](https://github-readme-stats.vercel.app/api?username=bluebearrii&show_icons=true&theme=ayu-mirage&count_private=true)
-     <dd>![GITHUB_MOST_USED_LANG_STAT](https://github-readme-stats.vercel.app/api/top-langs/?username=bluebearrii&layout=compact)
 </dl>
+  
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bluebearrii&show_icons=true&theme=radical)
   
 <!--
 **BlueBearrii/BlueBearrii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
