@@ -9,7 +9,7 @@
     <dd> - ⚗ Like photographer
     <dd> - 📱 Like custom computer
    <dt>Stats
-     <dd>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bluebearrii)](https://github.com/anuraghazra/github-readme-stats)
+     <dd>https://github-readme-stats.vercel.app/api?username=bluebearrii)](https://github.com/anuraghazra/github-readme-stats
 </dl>
   
 <!--
