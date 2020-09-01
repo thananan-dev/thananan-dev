@@ -9,7 +9,8 @@
     <dd> - ⚗ Like photographer
     <dd> - 📱 Like custom computer
    <dt>Stats
-     <dd>https://github-readme-stats.vercel.app/api?username=bluebearrii)](https://github.com/anuraghazra/github-readme-stats
+     <dd>![GITHUB_STAT_OVERALL](https://github-readme-stats.vercel.app/api?username=bluebearrii&show_icons=true&theme=ayu-mirage&count_private=true)
+     <dd>![GITHUB_MOST_USED_LANG_STAT](https://github-readme-stats.vercel.app/api/top-langs/?username=bluebearrii&layout=compact)
 </dl>
   
 <!--
