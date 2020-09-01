@@ -1,5 +1,4 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bluebearrii&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluebearrii&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ### 🚀 Hi there!!, I am Thananan (Leo)
 <dl>
   <dt>PROFILE
@@ -11,6 +10,8 @@
     <dd> - ⚗ Like photographer
     <dd> - 📱 Like custom computer
 </dl>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluebearrii&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
   
   
 <!--
