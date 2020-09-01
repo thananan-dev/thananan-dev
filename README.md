@@ -2,9 +2,10 @@
 # 🚀 HI THERE!!, I AM LEO
 ## 🤡 MY PROFILE
 - 👥 Thananan Worrawongvutikrai
-- ⚡️ I am 21 y/o.<br/>
-- 🌱 Currently studying at King Mongkut's University of Technology Thonburi.<br/>
-- 🎉 I want to be a good software developer.<br/>
+- ⚡️ I am 21 y/o<br/>
+- 🌱 Currently studying at King Mongkut's University of Technology Thonburi<br/>
+- 🎉 I want to be a good software developer<br/>
+- 💬 Contact me : thananan.math.acs@gmail.com
 ## 🏷️ INTERESTING IN
 - 🏗 Full-Stack developer
 - ⚗ Like photographer
