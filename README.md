@@ -1,6 +1,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bluebearrii&show_icons=true&theme=dark)
-# 🚀 Hi there!!, I am Thananan (Leo)
+# 🚀 HI THERE!!, I AM LEO
 ## 🤡 MY PROFILE
+- 👥 Thananan Worrawongvutikrai
 - ⚡️ I am 21 y/o.<br/>
 - 🌱 Currently studying at King Mongkut's University of Technology Thonburi.<br/>
 - 🎉 I want to be a good software developer.<br/>
