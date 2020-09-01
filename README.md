@@ -1,4 +1,6 @@
 ### 🚀 Hi there!!, I am Thananan (Leo)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bluebearrii&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluebearrii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <dl>
   <dt>PROFILE
     <dd> - ⚡️ I am 21 y/o.<br/>
@@ -8,9 +10,6 @@
     <dd> - 🏗 Full-Stack developer
     <dd> - ⚗ Like photographer
     <dd> - 📱 Like custom computer
-   <dt>Stats
-     ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bluebearrii&show_icons=true&theme=radical)<br/>
-     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluebearrii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </dl>
   
   
