@@ -1,19 +1,15 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bluebearrii&show_icons=true&theme=dark)
-### 🚀 Hi there!!, I am Thananan (Leo)
-<dl>
-  <dt>PROFILE
-    <dd> - ⚡️ I am 21 y/o.<br/>
-    <dd> - 🌱 Currently studying at King Mongkut's University of Technology Thonburi.<br/>
-    <dd> - 🎉 I want to be a good software developer.<br/>
-  <dt>INTERESTING IN
-    <dd> - 🏗 Full-Stack developer
-    <dd> - ⚗ Like photographer
-    <dd> - 📱 Like custom computer
-</dl>
+# 🚀 Hi there!!, I am Thananan (Leo)
+## 🤡 MY PROFILE
+- ⚡️ I am 21 y/o.<br/>
+- 🌱 Currently studying at King Mongkut's University of Technology Thonburi.<br/>
+- 🎉 I want to be a good software developer.<br/>
+## 🏷️ INTERESTING IN
+- 🏗 Full-Stack developer
+- ⚗ Like photographer
+- 📱 Like custom computer
+## 🚀 MOST LANGUAGE
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluebearrii&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-  
-  
 <!--
 **BlueBearrii/BlueBearrii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
