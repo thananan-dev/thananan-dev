@@ -6,6 +6,7 @@
 - 🌱 Currently studying at King Mongkut's University of Technology Thonburi<br/>
 - 🎉 I want to be a good software developer<br/>
 - 💬 Contact me : thananan.math.acs@gmail.com
+- 🔍 Facebook   : facebook.com/Leonadite01
 ## 🏷️ INTERESTING IN
 - 🏗 Full-Stack developer
 - ⚗ Like photographer
