@@ -1,5 +1,5 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bluebearrii&show_icons=true&theme=dark)
 # 🚀 HI THERE!!, I AM LEO
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bluebearrii&show_icons=true&theme=dark)
 ## 🤡 MY PROFILE
 - 👥 Thananan Worrawongvutikrai
 - ⚡️ I am 21 y/o<br/>
