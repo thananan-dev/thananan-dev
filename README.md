@@ -1,12 +1,12 @@
-### 🚀 Hi there!!, I am Thananan (Leo)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bluebearrii&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluebearrii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### 🚀 Hi there!!, I am Thananan (Leo)
 <dl>
   <dt>PROFILE
     <dd> - ⚡️ I am 21 y/o.<br/>
     <dd> - 🌱 Currently studying at King Mongkut's University of Technology Thonburi.<br/>
     <dd> - 🎉 I want to be a good software developer.<br/>
-  <dt>INTERESTING
+  <dt>INTERESTING IN
     <dd> - 🏗 Full-Stack developer
     <dd> - ⚗ Like photographer
     <dd> - 📱 Like custom computer
