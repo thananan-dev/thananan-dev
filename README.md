@@ -1,7 +1,6 @@
 # 🚀 HI THERE!!, I AM LEO
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bluebearrii&show_icons=true&hide=issues&theme=dark)
-## 🚀 MOST LANGUAGE
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluebearrii&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🤡 MY PROFILE
 - 👥 Thananan Worrawongvutikrai
 - ⚡️ I am 21 y/o<br/>
@@ -13,7 +12,8 @@
 - 🏗 Full-Stack developer
 - ⚗ Like photographer
 - 📱 Like custom computer
-
+## 🚀 MOST LANGUAGE
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluebearrii&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **BlueBearrii/BlueBearrii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
