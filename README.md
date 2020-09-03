@@ -10,8 +10,8 @@
 - 🔍 Facebook   : facebook.com/Leonadite01
 ## 🏷️ INTERESTING IN
 - 🏗 Full-Stack developer
-- ⚗ Like photographer
-- 📱 Like custom computer
+- 📸 Photographer
+- 🖥️ Customize computer
 ## 🚀 MOST LANGUAGE
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluebearrii&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
