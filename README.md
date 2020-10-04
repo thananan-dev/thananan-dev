@@ -13,6 +13,12 @@
 - 🖥️ Customize computer
 ## 🚀 MOST LANGUAGES
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluebearrii&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Tech stack
+| 🚀 | 💻 | 🎡 | 🎢 | ⛲️ |
+| ---      | ---       | ---       | ---       | ---       |
+| Website 🖥 | React | Node js | Firebase | MongoDB |
+| Mobile 📱 | ReactNative | Flutter |  |  |
 <!--
 **BlueBearrii/BlueBearrii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
