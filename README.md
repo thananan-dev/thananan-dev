@@ -18,9 +18,9 @@
 | 🚀 | 💻 | 🎡 | 🎢 | ⛲️ |
 | ---      | ---       | ---       | ---       | ---       |
 | **`Website 🖥`** | React | Nodejs | Firebase | MongoDB |
-| **`Mobile 📱`** | ReactNative |  |  |  |
+| **`Mobile 📱`** | ReactNative | Flutter |  |  |
 | **`Embedded System ⚙️`** | Arduino | Raspberry Pi |  |  |
-| **`Learning 📚`** | MySql | Flutter | Java | TypeScript |
+| **`Learning 📚`** | MySql | TypeScript | Java |  |
 <!--
 **BlueBearrii/BlueBearrii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
