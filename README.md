@@ -3,7 +3,7 @@
 ## 🤡 MY PROFILE
 - 👥 Thananan Worrawongvutikrai
 - ⚡️ I am 21 y/o<br/>
-- 🌱 Currently, I am studying at King Mongkut's University of Technology Thonburi<br/>
+- 👨🏻‍🎓 I graduated from King Mongkut's University of Technology Thonburi<br/>
 - 🎉 I will be a good software developer<br/>
 - 💬 Contact me : thananan.math.acs@gmail.com
 - 🔍 Facebook   : facebook.com/Leonadite01
