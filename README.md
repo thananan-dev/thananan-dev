@@ -2,7 +2,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bluebearrii&show_icons=true&hide=issues&theme=dark)
 ## 🤡 MY PROFILE
 - 👥 Thananan Worrawongvutikrai
-- ⚡️ I am 22 y/o<br/>
+- ⚡️ I am 24 y/o<br/>
 - 👨🏻‍🎓 I graduated from King Mongkut's University of Technology Thonburi<br/>
 - 🎉 I will be a good software developer<br/>
 - 💬 Contact me : thananan.math.acs@gmail.com
@@ -16,11 +16,11 @@
 
 ## Tech stack
 | 🚀 | 💻 | 🎡 | 🎢 | ⛲️ |
-| ---      | ---       | ---       | ---       | ---       |
-| **`Website 🖥`** | React | Nodejs | Firebase | MongoDB |
-| **`Mobile 📱`** | ReactNative | Flutter |  |  |
-| **`Embedded System ⚙️`** | Arduino | Raspberry Pi |  |  |
-| **`Learning 📚`** | MySql | TypeScript | Java |  |
+| ---      | ---       | ---       | ---       | ---       | ---       |
+| **`Website 🖥`** | React | Nodejs | Firebase | MongoDB | Next |
+| **`Mobile 📱`** | ReactNative | Flutter |  |  | |
+| **`Embedded System ⚙️`** | Arduino | Raspberry Pi |  |  | |
+| **`Learning 📚`** | MySql | TypeScript | Java |  | |
 <!--
 **BlueBearrii/BlueBearrii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
