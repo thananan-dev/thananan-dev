@@ -15,7 +15,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluebearrii&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tech stack
-| 🚀 | 💻 | 🎡 | 🎢 | ⛲️ |
+| 🚀 | 💻 | 🎡 | 🎢 | ⛲️ | |
 | ---      | ---       | ---       | ---       | ---       | ---       |
 | **`Website 🖥`** | React | Nodejs | Firebase | MongoDB | Next |
 | **`Mobile 📱`** | ReactNative | Flutter |  |  | |
